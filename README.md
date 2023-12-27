@@ -10,7 +10,7 @@ The dataset is split into three parts: a training set, a validation set, and a t
 
 ## Prerequisites
 
-This project requires the following packages to be installed:
+This project requires the following packages:
 
 - pandas
 - numpy
